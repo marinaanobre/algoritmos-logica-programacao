@@ -1,4 +1,4 @@
-// Fazer um programa para ler um número inteiro positivo N (máximo = 10), depois ler N números quaisquer e armazená-los em um vetor. Em seguida, mostrar na tela todos elementos do vetor.
+// Fazer um programa para ler um nÃºmero inteiro positivo N (mÃ¡ximo = 10), depois ler N nÃºmeros quaisquer e armazenÃ¡-los em um vetor. Em seguida, mostrar na tela todos elementos do vetor.
 
 #include <stdio.h>
 

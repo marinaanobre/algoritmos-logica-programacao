@@ -1,7 +1,7 @@
 #include<stdio.h>
 
-// Uma empresa vai conceder um aumento percentual de salário aos seus funcionários dependendo de quanto cada pessoa ganha, conforme tabela ao lado.
-// Fazer um programa para ler o salário de uma pessoa, dai mostrar qual o novo salário desta pessoa depois do aumento, quanto foi o aumento e qual foi a porcentagem de aumento
+// Uma empresa vai conceder um aumento percentual de salÃ¡rio aos seus funcionÃ¡rios dependendo de quanto cada pessoa ganha, conforme tabela ao lado.
+// Fazer um programa para ler o salÃ¡rio de uma pessoa, dai mostrar qual o novo salÃ¡rio desta pessoa depois do aumento, quanto foi o aumento e qual foi a porcentagem de aumento
 
 int main(){
 	float salario;

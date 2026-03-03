@@ -1,7 +1,7 @@
-// Problema: Experiências
-//Maria acabou de iniciar seu curso de graduação na Faculdade de Medicina e precisa de sua ajuda para organizar os experimentos de um laboratório do qual ela é responsável. Ela quer saber, no final do ano, quantas cobaias foram utilizadas no laboratório e o percentual de cada tipo de cobaia utilizado.
-//Este laboratório em especial utiliza três tipos de cobaias: sapos, ratos e coelhos. Para obter essas informações, ela sabe exatamente o número de experimentos que foram realizados, o tipo de cobaia utilizada e a quantidade de cobaias utilizadas em cada experimento. Faça um programa que leia um valor inteiro N que indica os vários casos de teste que vem a seguir. Cada caso de teste contém um inteiro que representa a quantidade de cobaias utilizadas e uma letra ('c', 'r' ou 's'), indicando o tipo de cobaia.
-//Apresente  o total de cobaias utilizadas, o total de cada tipo de cobaias utilizadas e o percentual de cada uma em relação ao total de cobaias utilizadas, sendo que o percentual deve ser representado com dois dígitos após o ponto.
+// Problema: ExperiÃªncias
+//Maria acabou de iniciar seu curso de graduaÃ§Ã£o na Faculdade de Medicina e precisa de sua ajuda para organizar os experimentos de um laboratÃ³rio do qual ela Ã© responsÃ¡vel. Ela quer saber, no final do ano, quantas cobaias foram utilizadas no laboratÃ³rio e o percentual de cada tipo de cobaia utilizado.
+//Este laboratÃ³rio em especial utiliza trÃªs tipos de cobaias: sapos, ratos e coelhos. Para obter essas informaÃ§Ãµes, ela sabe exatamente o nÃºmero de experimentos que foram realizados, o tipo de cobaia utilizada e a quantidade de cobaias utilizadas em cada experimento. FaÃ§a um programa que leia um valor inteiro N que indica os vÃ¡rios casos de teste que vem a seguir. Cada caso de teste contÃ©m um inteiro que representa a quantidade de cobaias utilizadas e uma letra ('c', 'r' ou 's'), indicando o tipo de cobaia.
+//Apresente  o total de cobaias utilizadas, o total de cada tipo de cobaias utilizadas e o percentual de cada uma em relaÃ§Ã£o ao total de cobaias utilizadas, sendo que o percentual deve ser representado com dois dÃ­gitos apÃ³s o ponto.
 
 
 #include<stdio.h>

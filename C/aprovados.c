@@ -1,4 +1,4 @@
-// Fazer um programa para ler um conjunto de N nomes de alunos, bem como as notas que eles tiraram no 1° e 2° semestres. Cada uma dessas informações deve ser armazenada em um vetor. Depois, imprimir os nomes dos alunos aprovados, considerando aprovados aqueles cuja média das notas seja maior ou igual a 6.0
+// Fazer um programa para ler um conjunto de N nomes de alunos, bem como as notas que eles tiraram no 1Â° e 2Â° semestres. Cada uma dessas informaÃ§Ãµes deve ser armazenada em um vetor. Depois, imprimir os nomes dos alunos aprovados, considerando aprovados aqueles cuja mÃ©dia das notas seja maior ou igual a 6.0
 
 #include<stdio.h>
 #include<string.h>
@@ -40,3 +40,4 @@ int main(){
 	}
 	
 }
+

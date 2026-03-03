@@ -1,4 +1,4 @@
-// Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida: imprimir todos os elementos do vetor; mostrar na tela a soma e a média dos elementos do vetor.
+// FaÃ§a um programa que leia N nÃºmeros reais e armazene-os em um vetor. Em seguida: imprimir todos os elementos do vetor; mostrar na tela a soma e a mÃ©dia dos elementos do vetor.
 #include <stdio.h>
 
 int main(){

@@ -14,4 +14,5 @@ diagonal = math.sqrt(base ** 2 + altura ** 2)
 
 print(f"area: {area:.4f}")
 print(f"perimetro: {perimetro:.4f}")
+
 print(f"diagonal: {diagonal:.4f}")
